@@ -6,7 +6,8 @@ function jsonOutput($data)
     exit();
 }
 
-// Yêu Cầu:
+// Yêu Cầu: 
+// git clone https://github.com/hongquandev/TNM_EX.git
 // 1. Tạo table user trong user.script.sql, thiết lập localhost và database
 // 2. Sử dụng Mysql Adapter bất kỳ để xử lý trên DB vd (mysql_connect, PDO, mysqli....)
 // 3. Tạo các functions tương ứng với các API yêu cầu dưới đây :
