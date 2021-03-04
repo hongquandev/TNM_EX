@@ -1,0 +1,2 @@
+-- Tạo table user với những fields theo user.class.php
+-- SQL
